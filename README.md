@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anoop Signh</h1>
+<h1 align="center">Hi 👋, I'm Anoop Singh</h1>
 <h3 align="center">Experienced full-stack software developer skilled in both frontend and backend development, with a focus on creating intuitive user experiences and optimizing applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoop102910&label=Profile%20views&color=0e75b6&style=flat" alt="anoop102910" /> </p>
